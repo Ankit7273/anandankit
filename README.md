@@ -1,6 +1,6 @@
 Micro Snake
-===========
-
+=========
+Micro snake is based on C programming.
 ![ASCII Image of Micro Snake](micro-snake.png "Play Micro Snake!")
 
 The theme started with [Micro Tetris] continues with this version of the
